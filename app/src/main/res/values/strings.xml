@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Workout Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_workout">AddWorkoutActivity</string>
+    <string name="workout_time">Time (Min)</string>
+    <string name="workout_distance">Distance</string>
+    <string name="calories">Calories</string>
+    <string name="pace">Pace</string>
+    <string name="add_workout_heading">Today\'s Workout</string>
+    <string name="back">Back</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="incline">Inclination</string>
+    <string-array name="workout_type">
+        <item>Running</item>
+        <item>AMT</item>
+        <item>Cycle</item>
+        <item>X-Train</item>
+        <item>Rowing</item>
+        <item>Stairs</item>
+        <item>Air Cycle</item>
+        <item>Hill Climb</item>
+    </string-array>
+</resources>

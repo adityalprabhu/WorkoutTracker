@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\prabhadi\Documents\Projects\WorkoutTracker\WorkoutTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3719f286d1ea2400f6bd6b0291c212ee76cd50bc">
+        <dex dex="C:\Users\prabhadi\Documents\Projects\WorkoutTracker\WorkoutTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7ffeb3da7870b45a99ff114871b9d2ef12d7ddeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\prabhadi\Documents\Projects\WorkoutTracker\WorkoutTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\prabhadi\Documents\Projects\WorkoutTracker\WorkoutTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e63aa032d6256007c77e5e23fa39396ffae9a4a5\classes.dex" />
+    </item>
+
+</items>
